@@ -6,6 +6,8 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	
+	<header>
+		<h1>I'm header</h1>
+	</header>
 </body>
 </html>
